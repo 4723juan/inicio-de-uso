@@ -3,3 +3,6 @@ git status
 git add //para cargar todo el repositorio locaal y si quierp un archivo especifico git add "nombre "
 git comit -m "NOMBRE DEL COMIT ENTRE COMILLAS" podemos poner fecha para proligidad
 git push origin master
+
+
+git pull
